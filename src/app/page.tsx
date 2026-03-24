@@ -3,10 +3,6 @@ export default function Home() {
     <main className="min-h-screen bg-[#0a0a0a] text-white">
       {/* Hero */}
       <section className="flex flex-col items-center justify-center min-h-screen text-center px-6 py-24">
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-violet-500/30 bg-violet-500/10 text-violet-400 text-sm font-medium mb-8">
-          <span className="w-2 h-2 rounded-full bg-violet-400 animate-pulse" />
-          Now in public beta
-        </div>
         <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight mb-6 bg-gradient-to-br from-white via-violet-200 to-violet-500 bg-clip-text text-transparent leading-tight">
           THE BEST OPENCLAW EVER
         </h1>
