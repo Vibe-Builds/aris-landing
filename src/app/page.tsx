@@ -8,7 +8,7 @@ export default function Home() {
           Now in public beta
         </div>
         <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight mb-6 bg-gradient-to-br from-white via-violet-200 to-violet-500 bg-clip-text text-transparent leading-tight">
-          Build Smarter, JUSTING<br />Ship Faster
+          THE BEST OPENCLAW EVER
         </h1>
         <p className="max-w-2xl text-lg sm:text-xl text-zinc-400 mb-10 leading-relaxed">
           Aris AI optimizes your AI workflows so you can focus on what matters &mdash; shipping great products.
